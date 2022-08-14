@@ -16,6 +16,7 @@
 - 🧑‍🎓 Renaissance Engineering Programme Scholar, specialising in the field of Computer Science 
 - 💻 Exploring different CS fields, including **Full-Stack Web Development, Web3, Blockchain, Machine Learning and Cybersecurity**
 
+##
 ### 🛠 Skilsets & Tech Stack:
 
 <div align="center">
@@ -49,6 +50,7 @@
   <br />
 </div>
 
+##
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chayhuixiang&theme=dark&background=000000)](https://git.io/streak-stats)
 
