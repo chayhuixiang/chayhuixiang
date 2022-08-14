@@ -47,7 +47,6 @@
       <img src="https://skillicons.dev/icons?i=linux,arduino,c,java,git,flutter,dart" />
     </a>
   </p>
-  <br />
 </div>
 
 ##
