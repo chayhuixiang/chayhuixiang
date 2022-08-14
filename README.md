@@ -17,7 +17,7 @@
 - 💻 Exploring different CS fields, including **Full-Stack Web Development, Web3, Blockchain, Machine Learning and Cybersecurity**
 
 ##
-### 🛠 Skilsets & Tech Stack:
+### 🛠 Skillsets & Tech Stack:
 
 <div align="center">
   <h3>Frontend</h3>
