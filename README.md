@@ -23,14 +23,14 @@
   <h3>Frontend</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,materialui,redux,nextjs,figma" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,bootstrap,materialui,redux,nextjs,figma" />
     </a>
   </p>
   <br />
   <h3>Backend</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,flask,sqlite,mongodb,firebase,solidity" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,flask,graphql,apollo,postgres,sqlite,prisma,mongodb,firebase,solidity,ipfs" />
     </a>
   </p>
   <br />
