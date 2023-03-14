@@ -23,7 +23,7 @@
   <h3>Frontend</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,bootstrap,materialui,redux,nextjs,figma" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,bootstrap,materialui,redux,nextjs,flutter,dart,figma" />
     </a>
   </p>
   <br />
@@ -44,7 +44,7 @@
   <h3>Software (Misc.)</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=linux,arduino,c,java,git,flutter,dart" />
+      <img src="https://skillicons.dev/icons?i=linux,arduino,c,java,git" />
     </a>
   </p>
 </div>
