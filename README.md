@@ -20,14 +20,14 @@
 ### 🛠 Skillsets & Tech Stack:
 
 <div align="center">
-  <h3>Frontend</h3>
+  <h3>Frontend Development</h3>
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,bootstrap,materialui,redux,nextjs,flutter,dart,figma" />
     </a>
   </p>
   <br />
-  <h3>Backend</h3>
+  <h3>Backend Development</h3>
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=nodejs,express,flask,graphql,apollo,postgres,sqlite,prisma,mongodb,firebase,solidity,ipfs" />
@@ -41,10 +41,17 @@
     </a>
   </p>
   <br />
-  <h3>Software (Misc.)</h3>
+  <h3>Firmware Development</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=linux,arduino,c,java,git" />
+      <img src="https://skillicons.dev/icons?i=c,arduino,linux,raspberrypi" />
+    </a>
+  </p>
+  <br />
+  <h3>DevOps</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,githubactions,replit,vercel,netlify,replit,gcp,aws" />
     </a>
   </p>
 </div>
