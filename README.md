@@ -51,7 +51,7 @@
   <h3>DevOps</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,githubactions,replit,vercel,netlify,replit,gcp,aws" />
+      <img src="https://skillicons.dev/icons?i=git,githubactions,docker,replit,vercel,netlify,gcp,aws" />
     </a>
   </p>
 </div>
