@@ -30,7 +30,7 @@
   <h3>Backend Development</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,flask,graphql,apollo,postgres,sqlite,prisma,mongodb,firebase,solidity,ipfs" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,flask,graphql,apollo,postgres,sqlite,prisma,mongodb,firebase,solidity,ipfs" />
     </a>
   </p>
   <br />
