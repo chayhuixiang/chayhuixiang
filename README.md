@@ -63,8 +63,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chayhuixiang&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chayhuixiang&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chayhuixiang&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chayhuixiang&theme=dark&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chayhuixiang&theme=dark&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) -->
 
 </div>
