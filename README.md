@@ -12,7 +12,7 @@
 </div>
 
 ### 👨‍💻 About Me:
-- 🏫 Currently a Year 3 Student at Nanyang Technological University
+- 🏫 Currently a Year 4 Student at Nanyang Technological University
 - 🧑‍🎓 NTU Renaissance Engineering Programme Scholar, specialising in the field of Computer Science 
 - 💻 Exploring different CS fields, including **Full-Stack Web Development, Web3, Blockchain, Machine Learning and Cybersecurity**
 
